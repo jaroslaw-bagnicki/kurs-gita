@@ -1,2 +1,5 @@
+# To apply configuration setting path must be added to .git/config with command:
+# git config include.path ../.gitconfig
+
 [push]
 	followTags = true
